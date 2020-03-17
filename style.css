@@ -180,3 +180,20 @@ section {
 .verde {
     color: #7fb802;
 }
+
+#quarta-sezione {
+    height: 448px;
+    background-color: blue;
+    padding-top: 40px;
+    padding-bottom: 40px;
+
+}
+
+.blocchi-2 {
+    height: 100%;
+    background-color: red;
+    float: left;
+    width: 50%;
+
+
+}
