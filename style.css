@@ -119,3 +119,30 @@ header {
     font-weight: normal;
     margin-bottom: 40px;
 }
+
+section {
+
+}
+
+#riga-grigia {
+    height: 155px;
+    background-color: #f9f9f9;
+    padding: 40px 20px 30px 20px;
+    text-align: center;
+}
+
+#contenitore-riga-grigia {
+    height: 85px;
+}
+
+#contenitore-riga-grigia h4 {
+    margin-top: 8px;
+    margin-bottom: 8px;
+    font-size: 24px;
+    font-weight: 300;
+}
+#contenitore-riga-grigia p {
+    font-size: 18px;
+    font-weight: 300;
+    color: #999;
+}
