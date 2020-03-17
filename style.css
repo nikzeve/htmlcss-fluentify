@@ -124,7 +124,7 @@ section {
 
 }
 
-#riga-grigia {
+#seconda-sezione {
     height: 155px;
     background-color: #f9f9f9;
     padding: 40px 20px 30px 20px;
@@ -145,4 +145,38 @@ section {
     font-size: 18px;
     font-weight: 300;
     color: #999;
+}
+
+#terza-sezione {
+    height: 500px;
+    padding-bottom: 5%;
+
+}
+.blocco {
+    width: 31%;
+    float: left;
+    margin-left: 2%;
+    padding: 2% 2% 2%;
+    text-align: center;
+    font-size: 23px;
+}
+ .blocco img {
+     height: 160px;
+     margin-bottom: 10%;
+ }
+
+.blocco hr {
+    width: 32px;
+    margin-left: 45%;
+    margin-top: 2%;
+    margin-bottom: 2%;
+}
+
+.blocco p {
+    font-size: 18px;
+    opacity: 0.4;
+}
+
+.verde {
+    color: #7fb802;
 }
